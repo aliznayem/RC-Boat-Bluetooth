@@ -1,5 +1,4 @@
 # RC-Boat-Bluetooth
-![RC Boat 1](https://lh5.googleusercontent.com/6kpIde4g8lumt9QjJH5RI22xtUvF8TvKbOn7eXPZo4htElm31qFOXUQHjZSoC49t0g_JcKS2nc70ZebqBP6HVPhvkIruYD4mRFJwDK06n45O1NN4=w1280)
 ## Principal Particulars ##
 Length (L) = 38cm
 
