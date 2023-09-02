@@ -1,6 +1,4 @@
 # RC-Boat-Bluetooth
-![Boat image top](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_top.jpg)
-![Boat image rear](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_rear.jpg)
 ## Principal Particulars ##
 Length (L) = 38cm
 
@@ -22,3 +20,6 @@ Remote Controller: Android app: [Arduino Bluetooth RC car](https://play.google.c
 Throttle Meter: 2 Digit 7-Segment Display
 
 Rudder Controller: 2 Micro Servo
+
+![Boat image top](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_top.jpg)
+![Boat image rear](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_rear.jpg)
