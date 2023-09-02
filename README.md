@@ -1,6 +1,6 @@
 # RC-Boat-Bluetooth
-![Boat top](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_top.jpg | width=50)
-![Boat rear](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_rear.jpg | width=50)
+![Boat image top](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_top.jpg)
+![Boat image rear](https://github.com/nayem-cosmic/RC-Boat-Bluetooth/blob/master/images/RC_boat_rear.jpg)
 ## Principal Particulars ##
 Length (L) = 38cm
 
